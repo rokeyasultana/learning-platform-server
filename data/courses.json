@@ -18,7 +18,7 @@
       "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" ,
       "courseType":"online",
       "start": "15 November, 2022",
-      "details": "Do you aspire to create applications and software but don’t know how to code or where to start? Look no further! This course gives you this knowledge and provides the opportunity you seek. It serves as a complete guide for you to learn to code from start to finish using C++, the powerful all-purpose programming language behind all the major applications, websites and software. This course busts the myth that coding is just for the chosen few."
+      "details": "Discover intermediate to advanced C++, including C++ 11's fantastic additions to the C++ standard. Develop complex C++ applications.Understand C++ 11. Be in a position to apply for jobs requiring good C++ knowledge."
 
     },
     {
@@ -41,7 +41,7 @@
       "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" ,
       "courseType":"online",
       "start": "1 November, 2022",
-      "details": "Dive deep under the hood of NodeJS. Learn V8, Express, the MEAN stack, core Javascript concepts, and more.Grasp how NodeJS works under the hood. Understand the Javascript and technical concepts behind NodeJS. Structure a Node application in modules"
+      "details": "Dive deep under the hood of NodeJS. Learn V8, Express, the MEAN stack, core Javascript concepts, and more. "
 
     },
     {
@@ -63,7 +63,7 @@
       "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" ,
       "courseType":"online",
       "start": "22 December, 2022",
-      "details": "PHP for Beginners: learn everything you need to become a professional PHP developer with practical exercises & projects. You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla. You will learn how to use Databases. You will learn MySQL"
+      "details": "Learn everything you need to become a professional PHP developer with practical exercises & projects. You will learn to create a CMS like WordPress, Drupal or Joomla. You will learn how to use Databases. You will learn MySQL"
 
     }
     
