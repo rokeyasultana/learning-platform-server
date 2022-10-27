@@ -3,9 +3,9 @@
       "id": "01",
       "courseName": "Learn JavaScript",
       "duration": 6,
-      "cost": 5500,
+      "cost": 85,
       "img":"https://1.bp.blogspot.com/-TGQt5uRcAkg/XuMIJoAhwnI/AAAAAAAAA38/FaJQpUUDsGEYR1zBK1wqLWUA9DTYp5CiQCPcBGAYYCw/s587/js.png" ,
-      "courseType":"online",
+      "courseType":"Online",
       "start": "30 December, 2022",
       "details": "You will learn programming fundamentals and basic object-oriented concepts using the latest JavaScript syntax. The concepts covered in these lessons lay the foundation for using JavaScript in any environment."
 
@@ -14,9 +14,9 @@
       "id": "02",
       "courseName": "Learn C++",
       "duration": 6,
-      "cost": 6000,
+      "cost": 100,
       "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" ,
-      "courseType":"online",
+      "courseType":"Online",
       "start": "15 November, 2022",
       "details": "Discover intermediate to advanced C++, including C++ 11's fantastic additions to the C++ standard. Develop complex C++ applications.Understand C++ 11. Be in a position to apply for jobs requiring good C++ knowledge."
 
@@ -25,9 +25,9 @@
       "id": "03",
       "courseName": "React JS Courses",
       "duration": 6,
-      "cost": 5500,
+      "cost": 55,
       "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" ,
-      "courseType":"online",
+      "courseType":"Online",
       "start": "30 December, 2022",
       "details": "The quick guide to learn basic concepts and workflow of how to build React appTaste of how to build your very first React component.How to handle event in componentsUnderstand two key concepts of React: State and Props."
 
@@ -36,10 +36,10 @@
     {
       "id": "04",
       "courseName": "Node.Js Online Course",
-      "duration": 6,
-      "cost": 6500,
+      "duration": 3,
+      "cost": 65,
       "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" ,
-      "courseType":"online",
+      "courseType":"Online",
       "start": "1 November, 2022",
       "details": "Dive deep under the hood of NodeJS. Learn V8, Express, the MEAN stack, core Javascript concepts, and more. "
 
@@ -48,9 +48,9 @@
       "id": "05",
       "courseName": "Angular Online Course",
       "duration": 5,
-      "cost": 5500,
+      "cost": 55,
       "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" ,
-      "courseType":"online",
+      "courseType":"Online",
       "start": "10 November, 2022",
       "details": "Have limited time to learn Angular 4 (Angular 2+)? Take this course and learn Angular in 10 hours! Master the essential Angular concepts. Troubleshoot common runtime errors. Write cleaner, more maintainable code"
 
@@ -59,9 +59,9 @@
       "id": "06",
       "courseName": "PHP Courses",
       "duration": 5,
-      "cost": 5500,
+      "cost": 70,
       "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" ,
-      "courseType":"online",
+      "courseType":"Online",
       "start": "22 December, 2022",
       "details": "Learn everything you need to become a professional PHP developer with practical exercises & projects. You will learn to create a CMS like WordPress, Drupal or Joomla. You will learn how to use Databases. You will learn MySQL"
 
